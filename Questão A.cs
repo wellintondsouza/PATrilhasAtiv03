@@ -19,7 +19,7 @@ namespace Projeto1
 			else 
 			{
 			
-				Console.WriteLine("O segundo número é maior!");
+				Console.WriteLine("O primeiro número não é maior que o segundo");
 			}
 			
 				  Console.WriteLine("Aperte qualquer botão para fechar...");
